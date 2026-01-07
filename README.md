@@ -28,7 +28,6 @@ The application supports the following navigation behavior:
 
 3. **Dynamic Detail View**
    - Shows a very large property image on the left and property details on the right.
-   - Includes clickable overlay thumbnails inside the main image section for preview.
    - **"Back to Search"** button is placed at the top navigation bar for easy return.
 
 4. **Logout**
